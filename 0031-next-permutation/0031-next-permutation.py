@@ -8,7 +8,6 @@ class Solution:
                 nums[len(nums)-1-a] = temp
 
         def partial_in_place_sort(arr, start_index):
-            # Insertion sort from the start_index
             for i in range(start_index + 1, len(arr)):
                 key = arr[i]
                 j = i - 1
@@ -40,13 +39,13 @@ class Solution:
                         f2=1
                     if(f2==1 and nums[i]<nums[val]):
                         val = i
-            print(val)
+     
             temp = nums[f]
-            print(temp,nums[f],f)
+    
             nums[f] = nums[val]
-            print(nums[f])
+ 
             nums[val] = temp
-            print(nums)
+      
             partial_in_place_sort(nums, f+1)
      
 
