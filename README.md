@@ -9,10 +9,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0031-next-permutation) |
 | [0056-merge-intervals](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0088-merge-sorted-array) |
+| [0229-majority-element-ii](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0229-majority-element-ii) |
 | [0966-binary-subarrays-with-sum](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0966-binary-subarrays-with-sum) |
 ## Hash Table
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0229-majority-element-ii) |
 | [0966-binary-subarrays-with-sum](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0966-binary-subarrays-with-sum) |
 ## Sliding Window
 |  |
@@ -32,4 +34,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0056-merge-intervals](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0088-merge-sorted-array) |
+| [0229-majority-element-ii](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0229-majority-element-ii) |
+## Counting
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
