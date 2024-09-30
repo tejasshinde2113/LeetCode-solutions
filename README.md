@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0745-find-smallest-letter-greater-than-target](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0966-binary-subarrays-with-sum](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0966-binary-subarrays-with-sum) |
+| [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -43,10 +44,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0088-merge-sorted-array) |
 | [0229-majority-element-ii](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0229-majority-element-ii) |
 | [0414-third-maximum-number](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0414-third-maximum-number) |
+| [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 ## Counting
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0229-majority-element-ii) |
+| [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 ## Binary Search
 |  |
 | ------- |
