@@ -8,7 +8,6 @@ class Solution:
                 return True
             if(matrix[r1][c1] > target):
                 r1=r1-1
-                c1=0
             else:
                 c1=c1+1
         return False
