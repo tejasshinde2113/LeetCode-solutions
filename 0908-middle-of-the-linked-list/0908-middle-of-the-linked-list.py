@@ -2,8 +2,7 @@
 # class ListNode:
 #     def __init__(self, val=0, next=None):
 #         self.val = val
-#         self.next = next
-import math
+#         self.ne
 class Solution:
     def middleNode(self, head: Optional[ListNode]) -> Optional[ListNode]:
 
@@ -12,7 +11,7 @@ class Solution:
         while curr:
             l+=1
             curr = curr.next
-        temp = math.floor(l/2)
+        temp = l//2
         while temp>0:
             temp-=1
             head = head.next
