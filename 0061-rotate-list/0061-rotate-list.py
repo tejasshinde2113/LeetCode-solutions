@@ -22,11 +22,6 @@ class Solution:
             temp-=1
         ss = curr
 
-        
-
-
-        
-
         res = ListNode(0)
 
         res1 = res
@@ -36,7 +31,6 @@ class Solution:
             res1 = res1.next
             temp3-=1
         
-        print(ss)
         temp = cnt -k
         while temp>0:
             res1.next = head
@@ -46,8 +40,5 @@ class Solution:
      
         
         res1.next = None
-
-  
-        
 
         return res.next
