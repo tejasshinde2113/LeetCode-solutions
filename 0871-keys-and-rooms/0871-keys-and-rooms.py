@@ -30,8 +30,6 @@ class Solution:
             final.extend(a)
         final = set(final)
 
-        
-
         if 0 not in final:
             final.add(0)
 
