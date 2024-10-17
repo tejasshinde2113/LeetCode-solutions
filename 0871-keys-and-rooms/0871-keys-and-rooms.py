@@ -35,9 +35,6 @@ class Solution:
         if 0 not in final:
             final.add(0)
 
-        print(visited)
-        print(final)
-        print(len(rooms))
 
         return len(visited) == len(final) == len(rooms)
         
