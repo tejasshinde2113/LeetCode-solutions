@@ -10,8 +10,8 @@ class Solution:
             while (queue != []):
                 
 
-                curr = queue[0]
-                del queue[0]
+                curr = queue[-1]
+                del queue[-1]
                 if(curr == dest):
                         return True
 
