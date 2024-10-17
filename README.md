@@ -125,10 +125,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0871-keys-and-rooms](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0871-keys-and-rooms) |
 | [2121-find-if-path-exists-in-graph](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/2121-find-if-path-exists-in-graph) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0871-keys-and-rooms](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0871-keys-and-rooms) |
 | [2121-find-if-path-exists-in-graph](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/2121-find-if-path-exists-in-graph) |
 ## Union Find
 |  |
@@ -137,5 +139,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [0871-keys-and-rooms](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0871-keys-and-rooms) |
 | [2121-find-if-path-exists-in-graph](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/2121-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
