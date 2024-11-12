@@ -16,7 +16,6 @@ class Solution:
         res.left = self.buildTree(inorder[:mid+1],postorder[:mid])
         res.right = self.buildTree(inorder[mid+1:],postorder[mid:-1])
 
-        print(res)
 
         return res
         
