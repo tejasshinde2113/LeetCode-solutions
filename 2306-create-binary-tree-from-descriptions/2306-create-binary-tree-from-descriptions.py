@@ -9,7 +9,6 @@ class Solution:
     def createBinaryTree(self, descriptions: List[List[int]]) -> Optional[TreeNode]:
         d = dict()
         temp =[]
-        n= dict()
         for p,c,l in descriptions:
             if p not in d:
                 d[p] = TreeNode(p)
