@@ -1,44 +1,30 @@
+from collections import deque, defaultdict
+
 class Solution:
     def validPath(self, n: int, edges: List[List[int]], source: int, destination: int) -> bool:
+        if source == destination:
+            return True
 
+        adj_list = defaultdict(list)
+        for u, v in edges:
+            adj_list[u].append(v)
+            adj_list[v].append(u)
 
-        def bfs(dct,source, dest):
-
+        def bfs(source, destination):
             visited = set()
-            queue = [source]
+            queue = deque([source])
 
-            while (queue != []):
+            while queue:
+                curr = queue.popleft()
+                if curr == destination:
+                    return True
+                visited.add(curr)
                 
+                for neighbor in adj_list[curr]:
+                    if neighbor not in visited:
+                        visited.add(neighbor) 
+                        queue.append(neighbor)
 
-                curr = queue[-1]
-                del queue[-1]
-                if(curr == dest):
-                        return True
-
-                if(curr not in visited):
-                    visited.add(curr)
-
-                    if(curr in dct):
-                        for neigh in dct[curr]:
-                            if(neigh == dest):
-                                
-                                return True
-                            if(neigh not in visited):
-                                queue.append(neigh)
             return False
 
-
-        dct =dict()
-        for vals in edges:
-            if(vals[0] not in dct):
-                dct[vals[0]] = []
-            dct[vals[0]].append(vals[1])
-            if(vals[1] not in dct):
-                dct[vals[1]] = []
-            dct[vals[1]].append(vals[0])
-        
-        print(dct)
-        
-
-        return bfs(dct,source,destination)
-        
+        return bfs(source, destination)
