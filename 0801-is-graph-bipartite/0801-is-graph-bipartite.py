@@ -12,8 +12,7 @@ class Solution:
                     if visit[a] <0:
                         parent[a] = [node,visit[node]]
                         dfs(a,parent)
-                    elif(a != parent[node][0]):
-                        if visit[a]== visit[node]:
+                    elif visit[a]== visit[node]:
                             res[0] = False
 
            
