@@ -3,33 +3,27 @@ class Solution:
 
         visit = [-1 for a in range(len(graph))]
         parent={}
-        def bfs(node):
-            toggle =True
-            q= [node]
+        res=[True]
+        def dfs(node,parent):
 
-            while q:
-                temp = q[0]
-                del q[0]
-
-                visit[temp] = not parent[temp][1]
-              
-
-                for a in graph[temp]:
+            if visit[node]<0:
+                visit[node] = not parent[node][1]
+                for a in graph[node]:
                     if visit[a] <0:
-                        parent[a] = [temp, visit[temp]]
-                        q.append(a)
-                    elif(a != parent[temp][0]):
-                        if visit[a]== visit[temp]:
-                            return False
+                        parent[a] = [node,visit[node]]
+                        dfs(a,parent)
+                    elif(a != parent[node][0]):
+                        if visit[a]== visit[node]:
+                            res[0] = False
 
-            return True
+           
         for index,a in enumerate(graph):
             if visit[index] <0:
 
                 if a:
                     parent[index] = [-1,0]
-                    val = bfs(index)
-                    if not val:
+                    dfs(index,parent)
+                    if not res[0]:
                         return False
         return True
         
