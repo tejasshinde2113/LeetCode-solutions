@@ -6,18 +6,19 @@
 #         self.right = right
 class Solution:
     def flatten(self, root: Optional[TreeNode]) -> None:
-        
-        prev=None
-        def dfs(root):
-            nonlocal prev 
-            if not root:
-                return 
+        if not root:
+            return
+        q=[root]
+        while q:
+            temp =q.pop()
             
-            dfs(root.right)
-            dfs(root.left)
-
-            root.right = prev
-            root.left = None
-            prev = root
-        dfs(root)
+            if temp.right:
+                q.append(temp.right)
+            if temp.left:
+                q.append(temp.left)
+            if q:
+                temp.right = q[-1]
+            temp.left = None
+                
+        
         
