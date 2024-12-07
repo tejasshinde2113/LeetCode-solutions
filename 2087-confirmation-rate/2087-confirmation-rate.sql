@@ -14,10 +14,9 @@ group by user_id)
 select s.user_id, isnull(x.val,0) confirmation_rate
 from signups s
 left join (
-    select s.user_id, round(isnull((b.c2)/a.c1,0),2) val, b.c2,a.c1
-    from  signups s
-    left join cte1 a
-    on s.user_id = a.user_id
+    select a.user_id, round(isnull((b.c2)/a.c1,0),2) val, b.c2,a.c1
+    from  cte1 a
+    
     inner join cte2 b
     on a.user_id = b.user_id
 ) as x
