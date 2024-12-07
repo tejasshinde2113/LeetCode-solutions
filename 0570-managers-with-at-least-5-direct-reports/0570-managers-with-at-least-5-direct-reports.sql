@@ -7,7 +7,7 @@
 select a.name 
 from employee a
 inner join (
-    select aa.managerid, count(*) cnt
+    select aa.managerid, count(aa.managerid) cnt
     from employee aa
     where aa.managerid is not null
     group by aa.managerid
