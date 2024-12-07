@@ -340,4 +340,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1415-students-and-examinations](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/1415-students-and-examinations) |
 | [1801-average-time-of-process-per-machine](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/1801-average-time-of-process-per-machine) |
 | [1908-recyclable-and-low-fat-products](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/1908-recyclable-and-low-fat-products) |
+| [2087-confirmation-rate](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/2087-confirmation-rate) |
 <!---LeetCode Topics End-->
