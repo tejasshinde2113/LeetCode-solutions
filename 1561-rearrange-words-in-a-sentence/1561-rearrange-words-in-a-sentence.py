@@ -2,7 +2,7 @@ class Solution:
     def arrangeWords(self, text: str) -> str:
 
         lst = text.split()
-        lst = sorted(lst,key = lambda x: len(x))
+        lst.sort(key = lambda x: len(x))
 
         for a in range(len(lst)):
             if a ==0:
