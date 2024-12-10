@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0162-find-peak-element) |
 | [0229-majority-element-ii](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0229-majority-element-ii) |
 | [0414-third-maximum-number](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0414-third-maximum-number) |
+| [0454-4sum-ii](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0454-4sum-ii) |
 | [0485-max-consecutive-ones](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0733-flood-fill](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0733-flood-fill) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0229-majority-element-ii](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0229-majority-element-ii) |
+| [0454-4sum-ii](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0454-4sum-ii) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0966-binary-subarrays-with-sum](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0966-binary-subarrays-with-sum) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
