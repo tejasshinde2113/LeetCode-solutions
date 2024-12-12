@@ -352,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0577-employee-bonus](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0577-employee-bonus) |
 | [0596-classes-more-than-5-students](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0596-classes-more-than-5-students) |
 | [0620-not-boring-movies](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0620-not-boring-movies) |
+| [1135-customers-who-bought-all-products](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/1135-customers-who-bought-all-products) |
 | [1155-product-sales-analysis-iii](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/1155-product-sales-analysis-iii) |
 | [1161-project-employees-i](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/1161-project-employees-i) |
 | [1245-user-activity-for-the-past-30-days-i](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/1245-user-activity-for-the-past-30-days-i) |
