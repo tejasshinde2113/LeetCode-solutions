@@ -2,10 +2,10 @@
 class Solution:
     def minSpeedOnTime(self, dist: List[int], hour: float) -> int:
 
-        arr = [1, sum(dist)]
+        arr = [1, round(max(dist)/(hour - floor(hour))) if floor(hour) != hour else sum(dist)]
 
-        if dist ==[4,2,3] and hour == 2.03:
-            return 100
+        # if dist ==[4,2,3] and hour == 2.03:
+        #     return 100
 
 
         def isPossible(mid):
