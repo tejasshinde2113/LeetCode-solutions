@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0952-word-subsets](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0952-word-subsets) |
 | [0966-binary-subarrays-with-sum](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0966-binary-subarrays-with-sum) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1185-find-in-mountain-array](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/1185-find-in-mountain-array) |
 | [1524-string-matching-in-an-array](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/1524-string-matching-in-an-array) |
 | [2000-minimum-speed-to-arrive-on-time](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/2000-minimum-speed-to-arrive-on-time) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
@@ -118,12 +119,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0882-peak-index-in-a-mountain-array](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1185-find-in-mountain-array](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/1185-find-in-mountain-array) |
 | [2000-minimum-speed-to-arrive-on-time](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/2000-minimum-speed-to-arrive-on-time) |
 ## Interactive
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0374-guess-number-higher-or-lower) |
+| [1185-find-in-mountain-array](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/1185-find-in-mountain-array) |
 ## Matrix
 |  |
 | ------- |
