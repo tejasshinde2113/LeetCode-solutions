@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0952-word-subsets](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0952-word-subsets) |
 | [0966-binary-subarrays-with-sum](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0966-binary-subarrays-with-sum) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1502-construct-k-palindrome-strings](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/1502-construct-k-palindrome-strings) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Sliding Window
 |  |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0229-majority-element-ii) |
+| [1502-construct-k-palindrome-strings](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/1502-construct-k-palindrome-strings) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 ## Binary Search
 |  |
@@ -333,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0952-word-subsets](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0952-word-subsets) |
+| [1502-construct-k-palindrome-strings](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/1502-construct-k-palindrome-strings) |
 | [1524-string-matching-in-an-array](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/1524-string-matching-in-an-array) |
 | [1561-rearrange-words-in-a-sentence](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/1561-rearrange-words-in-a-sentence) |
 ## Dynamic Programming
@@ -384,4 +387,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1524-string-matching-in-an-array](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/1524-string-matching-in-an-array) |
+## Greedy
+|  |
+| ------- |
+| [1502-construct-k-palindrome-strings](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/1502-construct-k-palindrome-strings) |
 <!---LeetCode Topics End-->
