@@ -49,6 +49,9 @@ class Solution:
         start = peak
         end = l-1
 
+        if res != l:
+            return res
+
         while start <= end:
             mid = ((start)+(end))//2
 
