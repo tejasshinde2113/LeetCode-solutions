@@ -2,7 +2,7 @@ class Solution:
     def canConstruct(self, s: str, k: int) -> bool:
         if len(s)<k:
             return False
-        if len(s)==k:
+        elif len(s)==k:
             return True
         counter = {}
         for ch in s:
