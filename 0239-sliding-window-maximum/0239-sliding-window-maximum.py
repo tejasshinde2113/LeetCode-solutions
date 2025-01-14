@@ -3,7 +3,7 @@ class Solution:
     def maxSlidingWindow(self, nums: List[int], k: int) -> List[int]:
         p1=0
         p2=0
-        st = []
+        st = deque()
         res = []
         ptr = deque()
 
@@ -17,7 +17,7 @@ class Solution:
                 res.append(ptr[0])
                 if ptr[0] == st[0]:
                     ptr.popleft()
-                st.pop(0)
+                st.popleft()
                 p1+=1
             p2+=1
         return(res)
