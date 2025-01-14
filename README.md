@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0733-flood-fill](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0733-flood-fill) |
+| [0735-asteroid-collision](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0735-asteroid-collision) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0907-koko-eating-bananas) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0503-next-greater-element-ii](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0503-next-greater-element-ii) |
+| [0735-asteroid-collision](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0735-asteroid-collision) |
 ## Math
 |  |
 | ------- |
@@ -418,4 +420,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0503-next-greater-element-ii) |
+## Simulation
+|  |
+| ------- |
+| [0735-asteroid-collision](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0735-asteroid-collision) |
 <!---LeetCode Topics End-->
