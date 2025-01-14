@@ -1,16 +1,19 @@
 class Solution:
     def findThePrefixCommonArray(self, A: List[int], B: List[int]) -> List[int]:
-        Atrack = dict()
+        Atrack = set()
         cnt = 0
         res =[]
         for a in range(len(A)):
-            Atrack[A[a]] = 1+Atrack.get(A[a],0)
-            Atrack[B[a]] = 1+Atrack.get(B[a],0)
-            print(Atrack)
-            if Atrack[A[a]] >1:
+            if A[a] in Atrack:
                 cnt+=1
-            if A[a] != B[a] and Atrack[B[a]]>1:
+            else:
+                Atrack.add(A[a])
+            if B[a] in Atrack:
                 cnt+=1
+            else:
+                Atrack.add(B[a])
+            
+      
            
             res.append(cnt)
         return res
