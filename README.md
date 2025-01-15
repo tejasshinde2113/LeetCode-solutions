@@ -264,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1254-deepest-leaves-sum](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/1254-deepest-leaves-sum) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
+| [1731-even-odd-tree](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/1731-even-odd-tree) |
 | [2121-find-if-path-exists-in-graph](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/2121-find-if-path-exists-in-graph) |
 ## Union Find
 |  |
@@ -318,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0784-insert-into-a-binary-search-tree](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0784-insert-into-a-binary-search-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1254-deepest-leaves-sum](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/1254-deepest-leaves-sum) |
+| [1731-even-odd-tree](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/1731-even-odd-tree) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Binary Tree
 |  |
@@ -354,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0784-insert-into-a-binary-search-tree](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0784-insert-into-a-binary-search-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1254-deepest-leaves-sum](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/1254-deepest-leaves-sum) |
+| [1731-even-odd-tree](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/1731-even-odd-tree) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/2306-create-binary-tree-from-descriptions) |
 ## String
 |  |
