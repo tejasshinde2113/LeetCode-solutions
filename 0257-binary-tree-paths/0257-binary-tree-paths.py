@@ -10,24 +10,14 @@ class Solution:
         res = []
         if not root:
             return []
-        q = deque([[root, str(root.val)]])
+        
 
-        while q:
-
-            temp ,path= q.popleft()
-
-            if not temp.left and not temp.right:
+        def dfs(root, path):
+            if not root.left and not root.right:
                 res.append(path)
             
-            if temp.left:
-                q.append([temp.left, path+'->'+str(temp.left.val)])
-            if temp.right:
-                q.append([temp.right, path+'->'+str(temp.right.val)])
+            dfs(root.left, path + '->' + str(root.left.val)) if root.left else None
+            dfs(root.right, path + '->' + str(root.right.val)) if root.right else None
+            
+        dfs(root,str(root.val))
         return res
-
-
-
-        
-
-        return res
-        
