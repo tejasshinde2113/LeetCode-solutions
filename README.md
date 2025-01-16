@@ -331,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0784-insert-into-a-binary-search-tree](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1040-maximum-binary-tree-ii](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/1040-maximum-binary-tree-ii) |
 | [1254-deepest-leaves-sum](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/1254-deepest-leaves-sum) |
 | [1731-even-odd-tree](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/1731-even-odd-tree) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/2306-create-binary-tree-from-descriptions) |
@@ -372,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0784-insert-into-a-binary-search-tree](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1040-maximum-binary-tree-ii](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/1040-maximum-binary-tree-ii) |
 | [1254-deepest-leaves-sum](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/1254-deepest-leaves-sum) |
 | [1731-even-odd-tree](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/1731-even-odd-tree) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/2306-create-binary-tree-from-descriptions) |
