@@ -14,31 +14,9 @@ class Solution:
 
         mid = nums.index(max(nums))
 
-        llist = nums[:mid]
-        rlist = nums[mid+1:]
-
-    
-
-
-        res.left = self.constructMaximumBinaryTree(llist)
-        res.right = self.constructMaximumBinaryTree(rlist)
+        res.left = self.constructMaximumBinaryTree(nums[:mid])
+        res.right = self.constructMaximumBinaryTree(nums[mid+1:])
         return res
 
 
 
-        # def dfs(left,right):
-        #     print(left, right)
-        #     if len(left)<2 or not right:
-        #         return
-
-        #     mid = left.pop()
-        #     res = TreeNode(mid)
-
-        #     lmid = left.index(max(left))
-        #     rmid = right.index(max(right))
-        #     res.left = dfs(left[:lmid+1],left[lmid+1:])
-        #     res.right = dfs(right[:rmid],right[rmid+1:])
-        #     return res
-        # mid = nums.index(max(nums))
-        # return dfs(nums[:mid+1],nums[mid+1:])
-        
