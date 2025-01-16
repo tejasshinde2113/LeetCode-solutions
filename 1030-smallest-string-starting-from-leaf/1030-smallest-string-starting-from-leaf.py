@@ -8,8 +8,6 @@ class Solution:
     def smallestFromLeaf(self, root: Optional[TreeNode]) -> str:
         res = []
 
-        alphabet_dict = {i: chr(97 + i) for i in range(26)}
-
         if not root:
             return ''
         
@@ -18,12 +16,12 @@ class Solution:
                 res.append(path)
             
             if root.left:
-                dfs(root.left, alphabet_dict[root.left.val]+path)
+                dfs(root.left, chr(97 + root.left.val)+path)
             if root.right:
-                dfs(root.right, alphabet_dict[root.right.val] + path)
+                dfs(root.right, chr(97 + root.right.val) + path)
 
             
-        dfs(root,alphabet_dict[root.val])
+        dfs(root,chr(97 + root.val))
 
         res.sort()
 
