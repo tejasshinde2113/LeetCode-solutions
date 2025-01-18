@@ -247,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/1030-smallest-string-starting-from-leaf) |
+| [1092-maximum-difference-between-node-and-ancestor](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1254-deepest-leaves-sum](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/1254-deepest-leaves-sum) |
 | [1568-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/1568-pseudo-palindromic-paths-in-a-binary-tree) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
@@ -348,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1030-smallest-string-starting-from-leaf](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1040-maximum-binary-tree-ii](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/1040-maximum-binary-tree-ii) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1092-maximum-difference-between-node-and-ancestor](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1254-deepest-leaves-sum](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/1254-deepest-leaves-sum) |
 | [1568-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/1568-pseudo-palindromic-paths-in-a-binary-tree) |
 | [1731-even-odd-tree](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/1731-even-odd-tree) |
@@ -396,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1030-smallest-string-starting-from-leaf](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1040-maximum-binary-tree-ii](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/1040-maximum-binary-tree-ii) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1092-maximum-difference-between-node-and-ancestor](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1254-deepest-leaves-sum](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/1254-deepest-leaves-sum) |
 | [1568-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/1568-pseudo-palindromic-paths-in-a-binary-tree) |
 | [1731-even-odd-tree](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/1731-even-odd-tree) |
