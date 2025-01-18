@@ -35,11 +35,11 @@ class Solution:
 
             if temp.val >= comp:
                 res+=1
-            
+            maxi = max(temp.val,comp)
             if temp.left:
-                q.append((temp.left, max(temp.val,comp)))
+                q.append((temp.left,maxi ))
             if temp.right:
-                q.append((temp.right, max(temp.val,comp)))
+                q.append((temp.right, maxi))
         return res
 
 
