@@ -26,8 +26,7 @@ class Solution:
         # return res[0]
 
         res =0
-        if not root:
-            return res
+        
         q=deque([(root,root.val -1)])
 
         while q:
