@@ -45,10 +45,8 @@ class Solution:
         
         maxall=bfs(q)
         
-        for i,row in enumerate(visit):
-            for j,col in enumerate(row):
-                if grid[i][j] ==1:
-                    return -1
+        if oneCnt>0:
+            return -1
         return maxall if maxall >-1 else 0 
 
         
