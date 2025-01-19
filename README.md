@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0503-next-greater-element-ii](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
+| [0542-01-matrix](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0542-01-matrix) |
 | [0654-maximum-binary-tree](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0654-maximum-binary-tree) |
 | [0733-flood-fill](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0735-asteroid-collision) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0130-surrounded-regions](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0130-surrounded-regions) |
+| [0542-01-matrix](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/1036-rotting-oranges) |
 ## Divide and Conquer
@@ -275,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0513-find-bottom-left-tree-value](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0542-01-matrix](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0547-number-of-provinces) |
 | [0623-add-one-row-to-tree](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0623-add-one-row-to-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -427,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0542-01-matrix](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0542-01-matrix) |
 ## Binary Search Tree
 |  |
 | ------- |
