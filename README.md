@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1185-find-in-mountain-array](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/1185-find-in-mountain-array) |
 | [1524-string-matching-in-an-array](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/1524-string-matching-in-an-array) |
+| [1876-map-of-highest-peak](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/1876-map-of-highest-peak) |
 | [2000-minimum-speed-to-arrive-on-time](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/2000-minimum-speed-to-arrive-on-time) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/2306-create-binary-tree-from-descriptions) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/1036-rotting-oranges) |
+| [1876-map-of-highest-peak](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/1876-map-of-highest-peak) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -294,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1568-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/1568-pseudo-palindromic-paths-in-a-binary-tree) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1731-even-odd-tree](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/1731-even-odd-tree) |
+| [1876-map-of-highest-peak](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/1876-map-of-highest-peak) |
 | [2121-find-if-path-exists-in-graph](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/2121-find-if-path-exists-in-graph) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Union Find
