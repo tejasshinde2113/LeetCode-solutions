@@ -27,6 +27,9 @@ class Solution:
 
 
         for i,a in enumerate(visit):
+            if edges[i] == -1:
+                visit[i]=1
+                continue
             if a==0:  
                 temp = bfs(i)
                 res = max(temp,res)
