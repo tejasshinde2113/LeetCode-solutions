@@ -1,6 +1,6 @@
 class Solution:
     def orangesRotting(self, grid: List[List[int]]) -> int:
-
+        
         m = len(grid)
         n = len(grid[0])
         q=deque()
@@ -48,50 +48,4 @@ class Solution:
         if oneCnt>0:
             return -1
         return maxall if maxall >-1 else 0 
-
-        
-
-        # m = len(grid)
-        # n = len(grid[0])
-        # maxall = 0
-
-
-        # visit = [[0 for a in range(n)] for b in range(m) ]
-
-        
-        # cnt= [0]
-        # def dfs(r,c,itera):
-
-
-        #     nonlocal maxall
-        #     maxall = max(maxall, itera)
-        #     visit[r][c]=1
-
-        #     for x,y in [(1,0),(0,1),(-1,0),(0,-1)]:
-        #         tempr = r+x
-        #         tempc = c+y
-        #         if   0<=tempr<m and 0<=tempc<n and not visit[tempr][tempc] and grid[tempr][tempc] ==1:
-        #             visit[tempr][tempc]=1
-        #             grid[tempr][tempc] =2
-                    
-                    
-        #             dfs(tempr,tempc,itera+1)
-                    
-                    
-        # for i, row in enumerate(grid):
-        #     for j,col in enumerate(row):
-        #         if col == 2 and not visit[i][j]:
-        #             dfs(i,j,0)
-        
-
-        
-
-        # for i,row in enumerate(visit):
-        #     for j,col in enumerate(row):
-        #         if grid[i][j] ==1:
-        #             return -1
-
-        # return maxall
-        
-
         
