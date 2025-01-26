@@ -27,7 +27,6 @@ class Solution:
             st.append(i)
 
             path[i]=0
-            visit[i]=1
         for i,a in (adj.items()):
             if visit[i] ==0:
                 dfs(i)
