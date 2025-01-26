@@ -1,40 +1,38 @@
 class Solution:
     def findOrder(self, numCourses: int, prerequisites: List[List[int]]) -> List[int]:
 
-        adj = [[] for a in range(numCourses)]
-
-        for a in prerequisites:
-            adj[a[0]].append(a[1])
-    
-
-        prereq = [0 for a in range(numCourses)]
-
-        for i,a in enumerate(adj):
-            for val in a:
-                prereq[val]+=1
-
-        zero=[]
-        for a in range(len(adj)):
-            if prereq[a] ==0:
-                zero.append(a)
-
-        if not zero:
-            return []
+        adj = { }
+        for course in range((numCourses)):
+            adj[course] = []
+        for course, pre in (prerequisites):
+            adj[course].append(pre)
         
-        res =[]
+
         
-       
-        while zero:
+        visit = [0 for a in range(numCourses)]
+        path = [0 for a in range(numCourses)]
+        st=[]
+        cycle = [False]
+        def dfs(i):
+            if path[i] ==1:
+                cycle[0] = True
+            if visit[i]==1:
+                return
+            visit[i]=1
             
-            temp = zero[0]
-            del zero[0]
-            res.append(temp)
+            if adj[i]:
+                for pre in adj[i]:
+                    path[i]=1
+                    dfs(pre)
+            st.append(i)
 
-            for a in adj[temp]:
-                prereq[a]-=1
-                if prereq[a] ==0:
-                    zero.append(a)
+            path[i]=0
+            visit[i]=1
+        for i,a in (adj.items()):
+            if visit[i] ==0:
+                dfs(i)
+                if cycle[0]:
+                    return []
+        return st
         
-                
-        return res[::-1] if sum(prereq)==0 else []
         
