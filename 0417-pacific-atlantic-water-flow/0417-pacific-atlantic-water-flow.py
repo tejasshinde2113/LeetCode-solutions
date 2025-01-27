@@ -84,46 +84,50 @@ class Solution:
 
         visit = [[0 for a in range(n)] for b in range(m)]
 
-        def bfs():
-            q = deque([(0, a) for a in range(n)] + [(b, 0) for b in range(m)])
+        def bfs(q,ocean):
+            
             while q:
                 row, col = q.popleft()
                 if row < 0 or row >= m or col < 0 or col >= n or visit[row][col]:
                     continue
                 visit[row][col] = 1
-                pacific.add((row, col))
+                ocean.add((row, col))
                 for x, y in [(1, 0), (-1, 0), (0, 1), (0, -1)]:
                     trow, tcol = x + row, y + col
                     if (
                         0 <= trow < m
                         and 0 <= tcol < n
-                        and (trow, tcol) not in pacific
+                        and (trow, tcol) not in ocean
                         and heights[trow][tcol] >= heights[row][col]
                     ):
                         q.append((trow, tcol))
 
-        bfs()
+        q = deque([(0, a) for a in range(n)] + [(b, 0) for b in range(m)])
+        bfs(q,pacific)
 
         visit = [[0 for a in range(n)] for b in range(m)]
 
-        def bfs2():
-            q = deque([(a, n - 1) for a in range(m)] + [(m - 1, b) for b in range(n)])
-            while q:
-                row, col = q.popleft()
-                if row < 0 or row >= m or col < 0 or col >= n or visit[row][col]:
-                    continue
-                visit[row][col] = 1
-                atlantic.add((row, col))
-                for x, y in [(1, 0), (-1, 0), (0, 1), (0, -1)]:
-                    trow, tcol = x + row, y + col
-                    if (
-                        0 <= trow < m
-                        and 0 <= tcol < n
-                        and (trow, tcol) not in atlantic
-                        and heights[trow][tcol] >= heights[row][col]
-                    ):
-                        q.append((trow, tcol))
+        q = deque([(a, n - 1) for a in range(m)] + [(m - 1, b) for b in range(n)])
+        bfs(q,atlantic)
 
-        bfs2()
+        # def bfs2():
+        #     q = deque([(a, n - 1) for a in range(m)] + [(m - 1, b) for b in range(n)])
+        #     while q:
+        #         row, col = q.popleft()
+        #         if row < 0 or row >= m or col < 0 or col >= n or visit[row][col]:
+        #             continue
+        #         visit[row][col] = 1
+        #         atlantic.add((row, col))
+        #         for x, y in [(1, 0), (-1, 0), (0, 1), (0, -1)]:
+        #             trow, tcol = x + row, y + col
+        #             if (
+        #                 0 <= trow < m
+        #                 and 0 <= tcol < n
+        #                 and (trow, tcol) not in atlantic
+        #                 and heights[trow][tcol] >= heights[row][col]
+        #             ):
+        #                 q.append((trow, tcol))
+
+        # bfs2()
 
         return list(pacific.intersection(atlantic))
