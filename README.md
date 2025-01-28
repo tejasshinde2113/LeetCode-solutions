@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2000-minimum-speed-to-arrive-on-time](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/2000-minimum-speed-to-arrive-on-time) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/2306-create-binary-tree-from-descriptions) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## Hash Table
 |  |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/1073-number-of-enclaves) |
 | [1876-map-of-highest-peak](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/1876-map-of-highest-peak) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -267,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2121-find-if-path-exists-in-graph](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/2121-find-if-path-exists-in-graph) |
 | [2439-longest-cycle-in-a-graph](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/2439-longest-cycle-in-a-graph) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/2493-reverse-odd-levels-of-binary-tree) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -308,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1876-map-of-highest-peak](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/1876-map-of-highest-peak) |
 | [2121-find-if-path-exists-in-graph](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/2121-find-if-path-exists-in-graph) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/2493-reverse-odd-levels-of-binary-tree) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Union Find
 |  |
 | ------- |
@@ -316,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0801-is-graph-bipartite](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0801-is-graph-bipartite) |
 | [1073-number-of-enclaves](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/1073-number-of-enclaves) |
 | [2121-find-if-path-exists-in-graph](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/2121-find-if-path-exists-in-graph) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Graph
 |  |
 | ------- |
