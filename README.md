@@ -243,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0257-binary-tree-paths) |
+| [0310-minimum-height-trees](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0310-minimum-height-trees) |
 | [0417-pacific-atlantic-water-flow](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0513-find-bottom-left-tree-value](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -286,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0226-invert-binary-tree) |
+| [0310-minimum-height-trees](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0310-minimum-height-trees) |
 | [0417-pacific-atlantic-water-flow](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0513-find-bottom-left-tree-value](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -326,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0210-course-schedule-ii) |
+| [0310-minimum-height-trees](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0310-minimum-height-trees) |
 | [0547-number-of-provinces](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0820-find-eventual-safe-states) |
@@ -468,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0210-course-schedule-ii) |
+| [0310-minimum-height-trees](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0310-minimum-height-trees) |
 | [0820-find-eventual-safe-states](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0820-find-eventual-safe-states) |
 | [2439-longest-cycle-in-a-graph](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/2439-longest-cycle-in-a-graph) |
 ## Database
