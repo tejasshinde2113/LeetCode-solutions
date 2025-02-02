@@ -10,12 +10,10 @@ class Solution:
                 else:
                     while st and st[-1] <= price:
                         st.pop()
-                    if not st:
-                        st.append(price)
-                    else:
-                        final = max(final, st[-1]-price)
-                    
-            else:
+            if not st:
                 st.append(price)
+            else:
+                final = max(final, st[-1]-price)
+            
         return final
         
