@@ -6,10 +6,8 @@ class Solution:
         while p2<len(prices):
             val = prices[p2] - prices[p1]
             if(val > 0 ):
-                p2+=1
-                p1=p2-1
+                
                 maxval += val
-            elif(val<=0):
-                p2+=1
-                p1 = p2-1
+            p2+=1
+            p1=p2-1
         return maxval
