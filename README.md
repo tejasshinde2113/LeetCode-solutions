@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3594-identify-the-largest-outlier-in-an-array](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/3594-identify-the-largest-outlier-in-an-array) |
+| [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Hash Table
 |  |
 | ------- |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3594-identify-the-largest-outlier-in-an-array](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/3594-identify-the-largest-outlier-in-an-array) |
+| [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Sliding Window
 |  |
 | ------- |
