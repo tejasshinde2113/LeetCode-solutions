@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0049-group-anagrams](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0079-word-search) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0141-linked-list-cycle](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0141-linked-list-cycle) |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0018-4sum) |
+| [0049-group-anagrams](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0148-sort-list) |
@@ -466,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0022-generate-parentheses) |
+| [0049-group-anagrams](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0049-group-anagrams) |
 | [0079-word-search](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0079-word-search) |
 | [0151-reverse-words-in-a-string](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0257-binary-tree-paths](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0257-binary-tree-paths) |
