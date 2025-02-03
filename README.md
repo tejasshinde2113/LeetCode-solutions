@@ -476,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1524-string-matching-in-an-array](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/1524-string-matching-in-an-array) |
 | [1561-rearrange-words-in-a-sentence](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/1561-rearrange-words-in-a-sentence) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3684-substring-matching-pattern](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/3684-substring-matching-pattern) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -538,6 +539,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0572-subtree-of-another-tree) |
 | [1524-string-matching-in-an-array](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/1524-string-matching-in-an-array) |
+| [3684-substring-matching-pattern](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/3684-substring-matching-pattern) |
 ## Greedy
 |  |
 | ------- |
