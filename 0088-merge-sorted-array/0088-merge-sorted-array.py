@@ -14,13 +14,11 @@ class Solution:
                 p2-=1
             pp-=1
         
-        print(nums1,p2,p1,pp)
 
         while p2>=0:
             nums1[pp]=nums2[p2]
             p2-=1
             pp-=1
-
 
 
 
