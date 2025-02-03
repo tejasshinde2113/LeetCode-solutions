@@ -472,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0014-longest-common-prefix](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0014-longest-common-prefix) |
 | [0022-generate-parentheses](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0049-group-anagrams) |
 | [0079-word-search](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0079-word-search) |
@@ -610,4 +611,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1585-the-kth-factor-of-n](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/1585-the-kth-factor-of-n) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
