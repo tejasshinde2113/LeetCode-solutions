@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0200-number-of-islands) |
 | [0229-majority-element-ii](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0229-majority-element-ii) |
 | [0239-sliding-window-maximum](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0239-sliding-window-maximum) |
+| [0347-top-k-frequent-elements](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0414-third-maximum-number](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0414-third-maximum-number) |
 | [0417-pacific-atlantic-water-flow](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0454-4sum-ii](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0454-4sum-ii) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0229-majority-element-ii](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0454-4sum-ii](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0454-4sum-ii) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0148-sort-list) |
 | [0229-majority-element-ii](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0414-third-maximum-number](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0414-third-maximum-number) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1561-rearrange-words-in-a-sentence](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/1561-rearrange-words-in-a-sentence) |
@@ -136,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [1502-construct-k-palindrome-strings](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/1502-construct-k-palindrome-strings) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/3455-minimum-length-of-string-after-operations) |
@@ -189,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0148-sort-list) |
+| [0347-top-k-frequent-elements](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0654-maximum-binary-tree](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0654-maximum-binary-tree) |
 ## Linked List
 |  |
@@ -590,6 +595,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0239-sliding-window-maximum](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0239-sliding-window-maximum) |
+| [0347-top-k-frequent-elements](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 ## Monotonic Queue
 |  |
@@ -618,4 +624,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0014-longest-common-prefix) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
