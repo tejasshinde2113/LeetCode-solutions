@@ -9,8 +9,8 @@ class Solution:
         for a in s:
             right[a]-=1
 
-            for x in words:
-                if x in left and right[x] > 0:
+            for x in left:
+                if right[x] > 0:
                     res.add(x+a+x)
             
             left.add(a)
