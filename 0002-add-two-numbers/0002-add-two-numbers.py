@@ -28,7 +28,6 @@ class Solution:
 
         
         while l3:
-            print('hi')
 
             add = l3.val + cnt
             if add >9:
