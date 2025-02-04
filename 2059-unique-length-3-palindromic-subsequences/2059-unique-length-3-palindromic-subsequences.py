@@ -5,10 +5,11 @@ class Solution:
         left = set()
         res = set()
 
+        words = set(list(s))
         for a in s:
             right[a]-=1
 
-            for x in 'abcdefghijklmnopqrstuvwxyz':
+            for x in words:
                 if x in left and right[x] > 0:
                     res.add(x+a+x)
             
