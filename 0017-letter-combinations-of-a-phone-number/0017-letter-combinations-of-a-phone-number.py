@@ -25,8 +25,7 @@ class Solution:
 
         if digits:
             back(0,'')
-            return res
-        
+
         return res
 
 
