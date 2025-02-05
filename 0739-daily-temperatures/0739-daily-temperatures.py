@@ -2,8 +2,6 @@ class Solution:
     def dailyTemperatures(self, temp: List[int]) -> List[int]:
 
         final =[]
-        res=[]
-
         st=[]
         for i in range(len(temp)-1,-1,-1):
 
@@ -12,7 +10,6 @@ class Solution:
             if not st:
                 final.append(0)
                 st.append((temp[i],i))
-                continue
             else:
                 final.append(st[-1][1]-i)
                 st.append((temp[i],i))
