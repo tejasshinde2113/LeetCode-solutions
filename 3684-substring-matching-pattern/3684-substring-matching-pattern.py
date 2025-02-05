@@ -15,9 +15,6 @@ class Solution:
         if not halfCorrect:
             return False
         
-        
-
-        
 
         sec = p[ind+1:]
 
