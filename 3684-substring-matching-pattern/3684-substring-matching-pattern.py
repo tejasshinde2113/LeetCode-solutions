@@ -28,8 +28,7 @@ class Solution:
         if not first:
             secind = 0
         
-        if secind >= len(s):
-            return False
+    
         
 
         return True if sec in s[secind:] else False
