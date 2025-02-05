@@ -28,9 +28,6 @@ class Solution:
         if not first:
             secind = 0
         
-    
-        
-
         return True if sec in s[secind:] else False
         
 
