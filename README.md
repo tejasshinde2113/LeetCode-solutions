@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0654-maximum-binary-tree](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0654-maximum-binary-tree) |
 | [0733-flood-fill](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0739-daily-temperatures) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0907-koko-eating-bananas) |
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0503-next-greater-element-ii) |
 | [0654-maximum-binary-tree](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0654-maximum-binary-tree) |
 | [0735-asteroid-collision](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0739-daily-temperatures) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Math
@@ -614,6 +616,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0402-remove-k-digits) |
 | [0503-next-greater-element-ii](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0503-next-greater-element-ii) |
 | [0654-maximum-binary-tree](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0654-maximum-binary-tree) |
+| [0739-daily-temperatures](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0739-daily-temperatures) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Simulation
 |  |
