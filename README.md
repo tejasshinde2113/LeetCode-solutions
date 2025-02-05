@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0454-4sum-ii](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0454-4sum-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0778-reorganize-string](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0778-reorganize-string) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0952-word-subsets](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0952-word-subsets) |
 | [0966-binary-subarrays-with-sum](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0966-binary-subarrays-with-sum) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0414-third-maximum-number](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0414-third-maximum-number) |
+| [0778-reorganize-string](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0778-reorganize-string) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1561-rearrange-words-in-a-sentence](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/1561-rearrange-words-in-a-sentence) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0229-majority-element-ii](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0347-top-k-frequent-elements) |
+| [0778-reorganize-string](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0778-reorganize-string) |
 | [1502-construct-k-palindrome-strings](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/1502-construct-k-palindrome-strings) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/3455-minimum-length-of-string-after-operations) |
@@ -510,6 +513,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0257-binary-tree-paths](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0257-binary-tree-paths) |
 | [0402-remove-k-digits](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0402-remove-k-digits) |
+| [0778-reorganize-string](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0778-reorganize-string) |
 | [0952-word-subsets](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0952-word-subsets) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1502-construct-k-palindrome-strings](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/1502-construct-k-palindrome-strings) |
@@ -588,6 +592,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0402-remove-k-digits](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0402-remove-k-digits) |
+| [0778-reorganize-string](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0778-reorganize-string) |
 | [1502-construct-k-palindrome-strings](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/1502-construct-k-palindrome-strings) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 ## Merge Sort
@@ -625,6 +630,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0347-top-k-frequent-elements) |
+| [0778-reorganize-string](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0778-reorganize-string) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 ## Monotonic Queue
 |  |
