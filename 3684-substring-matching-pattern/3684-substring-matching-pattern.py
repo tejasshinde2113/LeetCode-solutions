@@ -21,8 +21,7 @@ class Solution:
 
         sec = p[ind+1:]
 
-        if not sec:
-            return True
+ 
         
 
         if not first:
