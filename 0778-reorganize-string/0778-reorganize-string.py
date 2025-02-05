@@ -18,7 +18,6 @@ class Solution:
             val +=1
 
             if prev:
-                print(prev)
                 heapq.heappush(heap,prev)
                 prev = None
 
