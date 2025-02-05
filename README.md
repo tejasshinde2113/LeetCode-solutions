@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0542-01-matrix) |
+| [0560-subarray-sum-equals-k](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0654-maximum-binary-tree](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0654-maximum-binary-tree) |
 | [0733-flood-fill](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0735-asteroid-collision) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0454-4sum-ii](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0454-4sum-ii) |
+| [0560-subarray-sum-equals-k](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0952-word-subsets](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0952-word-subsets) |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0966-binary-subarrays-with-sum) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 ## Two Pointers
