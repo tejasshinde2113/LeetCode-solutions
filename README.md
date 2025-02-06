@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1073-number-of-enclaves](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/1073-number-of-enclaves) |
 | [1185-find-in-mountain-array](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/1185-find-in-mountain-array) |
+| [1428-jump-game-iii](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/1428-jump-game-iii) |
 | [1524-string-matching-in-an-array](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/1524-string-matching-in-an-array) |
 | [1876-map-of-highest-peak](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/1876-map-of-highest-peak) |
 | [2000-minimum-speed-to-arrive-on-time](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/2000-minimum-speed-to-arrive-on-time) |
@@ -327,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1073-number-of-enclaves](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/1073-number-of-enclaves) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1254-deepest-leaves-sum](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/1254-deepest-leaves-sum) |
+| [1428-jump-game-iii](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/1428-jump-game-iii) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1568-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/1568-pseudo-palindromic-paths-in-a-binary-tree) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
@@ -373,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/1073-number-of-enclaves) |
 | [1254-deepest-leaves-sum](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/1254-deepest-leaves-sum) |
+| [1428-jump-game-iii](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/1428-jump-game-iii) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1568-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/1568-pseudo-palindromic-paths-in-a-binary-tree) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
