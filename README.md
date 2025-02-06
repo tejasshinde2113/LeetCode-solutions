@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0069-sqrtx](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0007-reverse-integer) |
+| [0069-sqrtx](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0069-sqrtx) |
 | [0326-power-of-three](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0326-power-of-three) |
 | [1585-the-kth-factor-of-n](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/1585-the-kth-factor-of-n) |
 ## Depth-First Search
