@@ -7,7 +7,6 @@ class Solution:
             matching_end = wild_west.index(wild_west[-1])
             # if end is the only one of its kind move it to centre
             if matching_end == len(wild_west) - 1:
-                moves_to_middle = matching_end // 2
                 moves += matching_end // 2
             else:
                 # move first match of end to the start
