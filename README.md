@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0943-sum-of-subarray-minimums](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0943-sum-of-subarray-minimums) |
 | [0952-word-subsets](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0952-word-subsets) |
 | [0966-binary-subarrays-with-sum](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0966-binary-subarrays-with-sum) |
+| [1014-k-closest-points-to-origin](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/1014-k-closest-points-to-origin) |
 | [1036-rotting-oranges](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0414-third-maximum-number](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0414-third-maximum-number) |
 | [0778-reorganize-string](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0778-reorganize-string) |
+| [1014-k-closest-points-to-origin](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/1014-k-closest-points-to-origin) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1561-rearrange-words-in-a-sentence](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/1561-rearrange-words-in-a-sentence) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
@@ -246,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0654-maximum-binary-tree](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0654-maximum-binary-tree) |
+| [1014-k-closest-points-to-origin](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/1014-k-closest-points-to-origin) |
 ## Linked List
 |  |
 | ------- |
@@ -307,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0326-power-of-three) |
+| [1014-k-closest-points-to-origin](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/1014-k-closest-points-to-origin) |
 | [1585-the-kth-factor-of-n](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/1585-the-kth-factor-of-n) |
 ## Depth-First Search
 |  |
@@ -693,6 +697,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0778-reorganize-string](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0778-reorganize-string) |
+| [1014-k-closest-points-to-origin](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/1014-k-closest-points-to-origin) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 ## Monotonic Queue
 |  |
@@ -734,6 +739,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0347-top-k-frequent-elements) |
+| [1014-k-closest-points-to-origin](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/1014-k-closest-points-to-origin) |
 ## Design
 |  |
 | ------- |
@@ -750,4 +756,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0139-word-break) |
+## Geometry
+|  |
+| ------- |
+| [1014-k-closest-points-to-origin](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/1014-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
