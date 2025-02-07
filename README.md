@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0162-find-peak-element) |
+| [0189-rotate-array](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0229-majority-element-ii) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0189-rotate-array](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0908-middle-of-the-linked-list](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0908-middle-of-the-linked-list) |
@@ -297,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0007-reverse-integer) |
 | [0069-sqrtx](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0069-sqrtx) |
 | [0168-excel-sheet-column-title](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0168-excel-sheet-column-title) |
+| [0189-rotate-array](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0326-power-of-three) |
 | [1585-the-kth-factor-of-n](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/1585-the-kth-factor-of-n) |
