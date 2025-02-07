@@ -38,11 +38,10 @@ class Solution:
             st.append((n,i))
 
         
-        res = [0]*len(arr)
         final =0
 
         for i,n in enumerate(arr):
-            res[i] = n*nsl[i]*nsr[i]
+       
             final = (final + n*nsl[i]*nsr[i])%(10**9 + 7)
         return final
         
