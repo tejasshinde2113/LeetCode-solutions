@@ -7,7 +7,6 @@ class Solution:
         res =[]
         mini = 10**6
         ss  =  heap[0][0]
-        print(heap,ss)
         while k>0:
             k-=1
             
