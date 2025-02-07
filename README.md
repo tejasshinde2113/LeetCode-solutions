@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0239-sliding-window-maximum) |
+| [0322-coin-change](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0414-third-maximum-number](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0414-third-maximum-number) |
 | [0417-pacific-atlantic-water-flow](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0417-pacific-atlantic-water-flow) |
@@ -366,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0226-invert-binary-tree) |
 | [0310-minimum-height-trees](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0310-minimum-height-trees) |
+| [0322-coin-change](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0322-coin-change) |
 | [0417-pacific-atlantic-water-flow](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0513-find-bottom-left-tree-value](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -559,6 +561,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0152-maximum-product-subarray) |
+| [0322-coin-change](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0322-coin-change) |
 | [0542-01-matrix](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0542-01-matrix) |
 | [0943-sum-of-subarray-minimums](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0943-sum-of-subarray-minimums) |
 ## Binary Search Tree
