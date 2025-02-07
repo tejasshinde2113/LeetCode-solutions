@@ -1,25 +1,24 @@
 class Solution:
     def coinChange(self, coins: List[int], amount: int) -> int:
 
-        memo={0:0}
-        for a in coins:
-            memo[a] = 1
-        def recur(ind):
-            
-            if ind in memo:
-                return memo[ind]
-            res = float('inf')
-            for coin in coins:
-                if ind - coin >=0:
-                    res = min(res,recur(ind-coin)+1)
-                
-            memo[ind] = res
-            return memo[ind]
-            
+        memo=[0]*(amount+1)
+        coins.sort()
         
-        final = (recur(amount)) 
-        if final == float('inf'):
+
+
+        for i in range(1,amount+1):
+            minVal = 999998
+            for coin in coins:
+                reminder = i-coin
+                if reminder >=0:
+                    minVal = min(minVal,memo[reminder])
+                else:
+                    break
+            memo[i] = minVal+1
+    
+
+        if memo[amount] == 999999:
             return -1
         else:
-            return final 
+            return memo[amount]
         
