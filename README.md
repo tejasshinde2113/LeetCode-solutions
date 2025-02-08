@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0056-merge-intervals) |
+| [0066-plus-one](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0079-word-search) |
@@ -306,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0007-reverse-integer) |
+| [0066-plus-one](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0069-sqrtx) |
 | [0168-excel-sheet-column-title](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0168-excel-sheet-column-title) |
 | [0189-rotate-array](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0189-rotate-array) |
