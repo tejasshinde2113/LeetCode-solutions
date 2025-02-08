@@ -21,7 +21,6 @@ class Solution:
                     q.append((temp.left,level+1,axis-1))
                 if temp.right:
                     q.append((temp.right,level+1,axis+1))
-        print(min(dct.keys()))
 
 
         for k in range(min(dct.keys()),max(dct.keys())+1):
