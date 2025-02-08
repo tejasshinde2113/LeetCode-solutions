@@ -1,15 +1,16 @@
 class Solution:
-    def peakIndexInMountainArray(self, nums: List[int]) -> int:
-        start =0
-        end = len(nums)-1
-        N = len(nums)
+    def peakIndexInMountainArray(self, arr: List[int]) -> int:
+        
+        l=0
+        r=len(arr)-1
 
-        while start<=end:
-            mid = start + (end - start)//2
-            if(nums[(mid+N-1)%N]< nums[mid] and nums[mid]> nums[(mid+1)%N]):
+        while l<r:
+            mid = (l+r)//2
+
+            if arr[mid-1] < arr[mid] > arr[mid+1]:
                 return mid
-            if(nums[(mid+N-1)%N]< nums[mid] ):
-                start=mid+1
+            elif arr[mid] < arr[mid+1]:
+                l = mid
             else:
-                end = mid -1
-        return 1
+                r=mid
+        
