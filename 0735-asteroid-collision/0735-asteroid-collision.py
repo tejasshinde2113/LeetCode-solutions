@@ -1,36 +1,29 @@
 class Solution:
     def asteroidCollision(self, asteroids: List[int]) -> List[int]:
 
-        st= []
-        p1=0
-        p2=0
+        st = []
 
-        while p2<len(asteroids):
-            temp = asteroids[p2]
-            f = True
-            if not st :
-                st.append(temp)
-                p2+=1
-                continue
-            else:    
-                while st:
-                    
-                    if(temp < 0 and st[-1] > 0) :
-                        if abs(temp) > abs(st[-1]):
-                            st.pop()
-                        elif abs(temp) < abs(st[-1]):
-                            f = False
-                            break
-                        else:
-                            st.pop()
-                            f = False
-                            break
-                    else:
+        for a in asteroids:
+            st.append(a)
+            while len(st)>1:
+                if  (st[-1] < 0 and st[-2] >0):
+                    if st[-1] == -st[-2]:
+                        st.pop()
+                        st.pop()
                         break
-            if f:
-                st.append(temp)
-            p2+=1
-
-        return st
+                    else:
                         
+                        temp = None
+                        if abs(st[-1]) > abs(st[-2]):
+                            temp = st[-1]
+                        else:
+                            temp = st[-2]
+                        st.pop()
+                        st.pop()
+                        st.append(temp)
+                else:
+                    break
+
+                
+        return st
         
