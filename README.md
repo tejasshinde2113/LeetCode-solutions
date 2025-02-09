@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1073-number-of-enclaves](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/1073-number-of-enclaves) |
+| [1184-car-pooling](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/1184-car-pooling) |
 | [1185-find-in-mountain-array](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/1185-find-in-mountain-array) |
 | [1428-jump-game-iii](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/1428-jump-game-iii) |
 | [1524-string-matching-in-an-array](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/1524-string-matching-in-an-array) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/1046-max-consecutive-ones-iii) |
+| [1184-car-pooling](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/1184-car-pooling) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 ## Two Pointers
 |  |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-reorganize-string](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0778-reorganize-string) |
 | [1014-k-closest-points-to-origin](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/1014-k-closest-points-to-origin) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1184-car-pooling](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/1184-car-pooling) |
 | [1561-rearrange-words-in-a-sentence](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/1561-rearrange-words-in-a-sentence) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
@@ -686,6 +689,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0735-asteroid-collision) |
+| [1184-car-pooling](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/1184-car-pooling) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 ## Bit Manipulation
 |  |
@@ -708,6 +712,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0778-reorganize-string](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0778-reorganize-string) |
 | [1014-k-closest-points-to-origin](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/1014-k-closest-points-to-origin) |
+| [1184-car-pooling](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/1184-car-pooling) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 ## Monotonic Queue
 |  |
