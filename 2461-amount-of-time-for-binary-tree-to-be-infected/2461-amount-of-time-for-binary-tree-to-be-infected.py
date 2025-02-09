@@ -38,12 +38,15 @@ class Solution:
 
                 if node.left and not node.left in s:
                     q.append(node.left)
+                    s.add(node.left)
                 
                 if par[node] and not par[node] in s:
                     q.append(par[node])
+                    s.add(par[node])
 
                 if node.right and not node.right in s:
                     q.append(node.right)
+                    s.add(node.right)
             
             
         return cnt-1
