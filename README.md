@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0303-range-sum-query-immutable) |
 | [0322-coin-change](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0414-third-maximum-number](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0414-third-maximum-number) |
 | [0417-pacific-atlantic-water-flow](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0417-pacific-atlantic-water-flow) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0454-4sum-ii](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0454-4sum-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0908-middle-of-the-linked-list](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0908-middle-of-the-linked-list) |
 | [1356-minimum-number-of-moves-to-make-palindrome](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/1356-minimum-number-of-moves-to-make-palindrome) |
@@ -192,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0414-third-maximum-number](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0414-third-maximum-number) |
 | [0778-reorganize-string](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0778-reorganize-string) |
@@ -226,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0278-first-bad-version) |
+| [0349-intersection-of-two-arrays](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0374-guess-number-higher-or-lower](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0374-guess-number-higher-or-lower) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0540-single-element-in-a-sorted-array](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
