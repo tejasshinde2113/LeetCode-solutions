@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0561-array-partition](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0561-array-partition) |
 | [0654-maximum-binary-tree](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0654-maximum-binary-tree) |
 | [0733-flood-fill](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0735-asteroid-collision) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0506-relative-ranks) |
+| [0561-array-partition](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0561-array-partition) |
 | [0778-reorganize-string](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0778-reorganize-string) |
 | [1014-k-closest-points-to-origin](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/1014-k-closest-points-to-origin) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -709,6 +711,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0402-remove-k-digits](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0455-assign-cookies) |
+| [0561-array-partition](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0561-array-partition) |
 | [0778-reorganize-string](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0778-reorganize-string) |
 | [1356-minimum-number-of-moves-to-make-palindrome](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/1356-minimum-number-of-moves-to-make-palindrome) |
 | [1502-construct-k-palindrome-strings](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/1502-construct-k-palindrome-strings) |
@@ -824,4 +827,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1014-k-closest-points-to-origin](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/1014-k-closest-points-to-origin) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
