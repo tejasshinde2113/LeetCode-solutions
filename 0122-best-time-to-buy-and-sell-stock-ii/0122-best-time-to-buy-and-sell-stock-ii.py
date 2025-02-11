@@ -3,11 +3,8 @@ class Solution:
         p1=0
         p2=1
         maxval = 0
-        while p2<len(prices):
-            val = prices[p2] - prices[p1]
-            if(val > 0 ):
-                
-                maxval += val
-            p2+=1
-            p1=p2-1
+
+        for i in range(1,len(prices)):
+            if prices[i]> prices[i-1]:
+                maxval+= (prices[i]-prices[i-1])
         return maxval
