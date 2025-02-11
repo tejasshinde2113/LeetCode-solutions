@@ -3,19 +3,19 @@ class Solution:
 
         st=[]
         final = 0
-        for price in prices[::-1]:
-            if st:
-                if st[-1] > price:
-                    final = max(final, st[-1]-price)
-                else:
-                    while st and st[-1] <= price:
-                        st.pop()
-                    if not st:
-                        st.append(price)
-                    else:
-                        final = max(final, st[-1]-price)
-                    
+        for n in prices[::-1]:
+            if not st:
+                st.append(n)
             else:
-                st.append(price)
-        return final
+                if n <= st[-1]:
+                    final = max(final, st[-1]-n)
+                else:
+                    while st and   n > st[-1]:
+                        st.pop()
+                    if st and n <= st[-1]:
+                        final = max(final, st[-1]-n)
+                    else:
+                        st.append(n)
         
+        return final
+
