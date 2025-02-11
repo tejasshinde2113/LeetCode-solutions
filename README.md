@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0454-4sum-ii](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0454-4sum-ii) |
 | [0485-max-consecutive-ones](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0503-next-greater-element-ii](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0503-next-greater-element-ii) |
+| [0506-relative-ranks](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0506-relative-ranks) |
 | [0540-single-element-in-a-sorted-array](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0560-subarray-sum-equals-k) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0414-third-maximum-number](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0414-third-maximum-number) |
+| [0506-relative-ranks](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0506-relative-ranks) |
 | [0778-reorganize-string](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0778-reorganize-string) |
 | [1014-k-closest-points-to-origin](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/1014-k-closest-points-to-origin) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -745,6 +747,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0506-relative-ranks](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0506-relative-ranks) |
 | [0778-reorganize-string](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0778-reorganize-string) |
 | [1014-k-closest-points-to-origin](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/1014-k-closest-points-to-origin) |
 | [1184-car-pooling](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/1184-car-pooling) |
