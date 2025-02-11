@@ -4,7 +4,7 @@ class Solution:
         nums = set(nums)
         
         for i in range(1,l):
-            print(i)
+            
             if i in nums:
                 nums.remove(i)
             else:
