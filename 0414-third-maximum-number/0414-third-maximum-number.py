@@ -1,12 +1,12 @@
 class Solution:
     def thirdMax(self, nums: List[int]) -> int:
-        distinctNums = set(nums)
-        f=0
-        if(len(distinctNums)<3):
-            f=1
+        heap =[]
+        nums = set(nums)
 
-        distinctNums = sorted(list(distinctNums),reverse=True)
-        return distinctNums[0] if f==1 else distinctNums[2]
-
-
+        for a in nums:
+            heapq.heappush(heap,a)
+            if len(heap)>3:
+                heapq.heappop(heap)
+        
+        return heap[0] if len(heap) > 2 else heap[-1]
         
