@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0228-summary-ranges](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0228-summary-ranges) |
 | [0229-majority-element-ii](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0239-sliding-window-maximum) |
