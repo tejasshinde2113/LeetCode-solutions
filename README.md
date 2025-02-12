@@ -638,6 +638,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0392-is-subsequence) |
 | [0402-remove-k-digits](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0409-longest-palindrome) |
+| [0434-number-of-segments-in-a-string](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0434-number-of-segments-in-a-string) |
 | [0778-reorganize-string](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0778-reorganize-string) |
 | [0952-word-subsets](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0952-word-subsets) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/1030-smallest-string-starting-from-leaf) |
