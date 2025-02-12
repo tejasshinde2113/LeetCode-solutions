@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0392-is-subsequence](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0455-assign-cookies) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0908-middle-of-the-linked-list](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0908-middle-of-the-linked-list) |
@@ -633,6 +634,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0205-isomorphic-strings) |
 | [0257-binary-tree-paths](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0257-binary-tree-paths) |
 | [0290-word-pattern](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0290-word-pattern) |
+| [0392-is-subsequence](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0392-is-subsequence) |
 | [0402-remove-k-digits](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0402-remove-k-digits) |
 | [0778-reorganize-string](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0778-reorganize-string) |
 | [0952-word-subsets](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0952-word-subsets) |
@@ -662,6 +664,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0152-maximum-product-subarray) |
 | [0322-coin-change](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0322-coin-change) |
 | [0337-house-robber-iii](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0337-house-robber-iii) |
+| [0392-is-subsequence](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0392-is-subsequence) |
 | [0542-01-matrix](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0542-01-matrix) |
 | [0943-sum-of-subarray-minimums](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0943-sum-of-subarray-minimums) |
 | [1013-fibonacci-number](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/1013-fibonacci-number) |
