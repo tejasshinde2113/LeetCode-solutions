@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0268-missing-number) |
+| [0290-word-pattern](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -631,6 +632,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0205-isomorphic-strings) |
 | [0257-binary-tree-paths](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0257-binary-tree-paths) |
+| [0290-word-pattern](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0290-word-pattern) |
 | [0402-remove-k-digits](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0402-remove-k-digits) |
 | [0778-reorganize-string](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0778-reorganize-string) |
 | [0952-word-subsets](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0952-word-subsets) |
