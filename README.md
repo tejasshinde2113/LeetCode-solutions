@@ -351,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0069-sqrtx) |
 | [0168-excel-sheet-column-title](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0168-excel-sheet-column-title) |
+| [0171-excel-sheet-column-number](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0326-power-of-three) |
@@ -617,6 +618,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0168-excel-sheet-column-title) |
+| [0171-excel-sheet-column-number](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0205-isomorphic-strings) |
 | [0257-binary-tree-paths](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0257-binary-tree-paths) |
 | [0402-remove-k-digits](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0402-remove-k-digits) |
