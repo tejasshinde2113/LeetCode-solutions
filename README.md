@@ -639,6 +639,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0409-longest-palindrome) |
 | [0434-number-of-segments-in-a-string](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0434-number-of-segments-in-a-string) |
+| [0459-repeated-substring-pattern](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0459-repeated-substring-pattern) |
 | [0778-reorganize-string](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0778-reorganize-string) |
 | [0952-word-subsets](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0952-word-subsets) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/1030-smallest-string-starting-from-leaf) |
@@ -724,6 +725,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0459-repeated-substring-pattern](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0459-repeated-substring-pattern) |
 | [0572-subtree-of-another-tree](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0572-subtree-of-another-tree) |
 | [1524-string-matching-in-an-array](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/1524-string-matching-in-an-array) |
 | [3684-substring-matching-pattern](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/3684-substring-matching-pattern) |
