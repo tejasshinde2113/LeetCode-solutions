@@ -350,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0007-reverse-integer) |
 | [0066-plus-one](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0069-sqrtx) |
 | [0168-excel-sheet-column-title](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0171-excel-sheet-column-number) |
@@ -613,6 +614,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0049-group-anagrams) |
+| [0067-add-binary](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0067-add-binary) |
 | [0079-word-search](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0127-word-ladder) |
@@ -742,12 +744,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0067-add-binary) |
 | [0735-asteroid-collision](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0735-asteroid-collision) |
 | [1184-car-pooling](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/1184-car-pooling) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0268-missing-number) |
