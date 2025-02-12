@@ -614,6 +614,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0049-group-anagrams) |
+| [0058-length-of-last-word](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0067-add-binary) |
 | [0079-word-search](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0125-valid-palindrome) |
