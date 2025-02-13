@@ -5,7 +5,6 @@ class Solution:
 
         for i in range(1,len(heights)):
             diff =heights[i] - heights[i-1]
-            print(bricks,ladders,i,diff)
             if diff > 0:
                 if bricks >=diff:
                     bricks-=diff
