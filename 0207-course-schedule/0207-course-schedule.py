@@ -1,31 +1,31 @@
 class Solution:
     def canFinish(self, numCourses: int, prerequisites: List[List[int]]) -> bool:
-        adj = [[] for _ in range(numCourses)]
-        for course, prereq in prerequisites:
-            adj[prereq].append(course)
-        visit = [0 for a in range(numCourses)]
-        path = [0 for a in range(numCourses)]
-        
+        adj = [[] for i in range(numCourses)]
 
-        def dfs(root):
-            visit[root] = 1
-            path[root]=1
-            for a in adj[root]:
-                if not visit[a]:
-                    if dfs(a):
-                        return True
-                elif path[a]==1:
+        for course,pre in prerequisites:
+            adj[course].append(pre)
+
+        visit = [0 for i in range(numCourses)]
+        path = [0 for i in range(numCourses)]
+
+
+        def dfs(course):
+            visit[course]=1
+
+            path[course]=1
+
+            for pre in adj[course]:
+                if path[pre]==1:
                     return True
-            path[root]=0
+                else:
+                    if dfs(pre):
+                        return True
+            path[course]=0
             return False
-                    
 
-
-
-        for a in range(numCourses):
-            if not visit[a]:
-                visit[a] = 1
-                path[a]=1
-                if dfs(a):
+        for i in range(numCourses):
+            if adj[i] and visit[i] ==0:
+                visit[i] = 1
+                if dfs(i):
                     return False
         return True
