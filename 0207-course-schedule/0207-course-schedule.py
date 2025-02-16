@@ -18,7 +18,7 @@ class Solution:
                 if path[pre]==1:
                     return True
                 else:
-                    if dfs(pre):
+                    if not visit[pre] and dfs(pre):
                         return True
             path[course]=0
             return False
