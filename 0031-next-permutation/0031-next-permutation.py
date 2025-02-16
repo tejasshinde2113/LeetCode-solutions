@@ -23,12 +23,14 @@ class Solution:
         ind = peak
 
         for i in range(peak,len(nums)):
-            if nums[i]> nums[peak - 1] and nums[i]<nums[ind]:
-                ind = i
+            if nums[i] > nums[peak-1] and nums[i] < nums[ind]:
+                ind=i
         
-        nums[peak-1],nums[ind] = nums[ind],nums[peak-1]
+
+        nums[ind],nums[peak-1] = nums[peak-1],nums[ind]
 
         nums[peak:] = sorted(nums[peak:])
-        return
+
+        return nums
 
 
