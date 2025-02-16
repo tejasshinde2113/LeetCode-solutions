@@ -1,31 +1,26 @@
 class Solution:
     def wordSubsets(self, words1: List[str], words2: List[str]) -> List[str]:
-        ma = {}
+        count2 = defaultdict(int)
 
-        for a in words2:
-            temp ={}
-            for b in a:
-                temp[b] = 1+ temp.get(b,0)
-            
-            for aa in temp:
-                if aa not in ma or temp[aa] > ma[aa]:
-                    ma[aa]= temp[aa]
-        final =[]
-        for a in words1:
-            temp ={}
-            f = True
-            for b in a:
-                temp[b] = 1+ temp.get(b,0)
-            for aa in ma:
-                
-                if aa not in temp or temp[aa] < ma[aa]:
-                    f = False
-            if f:
-                final.append(a)
-        return final
+        for w in words2:
+            temp = Counter(w)
 
-
-
-
-
+            for k,val in temp.items():
+                count2[k] = max(count2[k],val)
         
+
+        res =[]
+        for word in words1:
+            count = Counter(word)
+
+            isSubset = True
+            for k,v in count2.items():
+
+                if v > count.get(k,0):
+                    isSubset = False
+                    break
+            
+            if isSubset:
+                res.append(word)
+
+        return res
