@@ -42,7 +42,6 @@ class Solution:
                 dot=False
             st.append(a)
 
-        print(st)
         if dotcnt>0:
             if st[-1]!='.':
                 pass
@@ -63,7 +62,6 @@ class Solution:
                     while len(st)>1 and st[-1] !='/':
                         st.pop()
                 
-        print(st)
         if len(st)==1:
             return st[0]
         
