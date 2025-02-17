@@ -356,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0013-roman-to-integer) |
+| [0062-unique-paths](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0069-sqrtx) |
@@ -661,6 +662,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0062-unique-paths) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -864,4 +866,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0561-array-partition) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
