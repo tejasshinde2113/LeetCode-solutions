@@ -356,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0739-daily-temperatures) |
 | [0943-sum-of-subarray-minimums](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0943-sum-of-subarray-minimums) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Math
 |  |
@@ -653,6 +654,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-reorganize-string](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0778-reorganize-string) |
 | [0952-word-subsets](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0952-word-subsets) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/1030-smallest-string-starting-from-leaf) |
+| [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [1356-minimum-number-of-moves-to-make-palindrome](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/1356-minimum-number-of-moves-to-make-palindrome) |
 | [1502-construct-k-palindrome-strings](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/1502-construct-k-palindrome-strings) |
 | [1524-string-matching-in-an-array](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/1524-string-matching-in-an-array) |
