@@ -7,7 +7,7 @@ class Solution:
 
         def check(total,arr,ind):
             if total == target:
-                res.append(tuple(arr[:]))
+                res.append(arr[:])
                 return
             if total > target:
                 return
