@@ -1,23 +1,19 @@
 class Solution:
-    def combinationSum(self, ca: List[int], target: int) -> List[List[int]]:
+    def combinationSum(self, c: List[int], target: int) -> List[List[int]]:
+        res=set()
 
 
-        res =[]
-
-
-        def check(total,ind,arr):
-
+        def check(total,arr,ind):
             if total == target:
-                res.append(arr[:])
+                res.add(tuple(arr[:]))
                 return
-            elif total > target:
-                return 
-
+            if total > target:
+                return
             
-            for i in range(ind,len(ca)):
-                check(total+ca[i],i, arr+ [ca[i]])
-        
+            for i in range(ind,len(c)):
+                check(total+c[i] , arr+[c[i]], i)
 
-        check(0,0,[])
-        return res
+        
+        check(0,[],0)
+        return list(res)
         
