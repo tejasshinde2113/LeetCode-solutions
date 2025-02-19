@@ -1,13 +1,13 @@
 class Solution:
     def combinationSum2(self, c: List[int], target: int) -> List[List[int]]:
-        res=set()
+        res=[]
         c.sort()
         
 
 
         def check(total,arr,ind):
             if total == target:
-                res.add(tuple(arr[:]))
+                res.append(tuple(arr[:]))
                 return
             if total > target:
                 return
@@ -19,4 +19,4 @@ class Solution:
 
         
         check(0,[],0)
-        return list(res)
+        return (res)
