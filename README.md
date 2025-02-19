@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0414-third-maximum-number](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0414-third-maximum-number) |
 | [0417-pacific-atlantic-water-flow](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0417-pacific-atlantic-water-flow) |
+| [0435-non-overlapping-intervals](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0454-4sum-ii](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0454-4sum-ii) |
 | [0455-assign-cookies](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0455-assign-cookies) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0414-third-maximum-number](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0414-third-maximum-number) |
+| [0435-non-overlapping-intervals](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0561-array-partition) |
@@ -692,6 +694,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0322-coin-change) |
 | [0337-house-robber-iii](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0337-house-robber-iii) |
 | [0392-is-subsequence](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0392-is-subsequence) |
+| [0435-non-overlapping-intervals](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0542-01-matrix](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0542-01-matrix) |
 | [0943-sum-of-subarray-minimums](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0943-sum-of-subarray-minimums) |
 | [1013-fibonacci-number](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/1013-fibonacci-number) |
@@ -761,6 +764,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0402-remove-k-digits](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0409-longest-palindrome) |
+| [0435-non-overlapping-intervals](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0561-array-partition) |
 | [0778-reorganize-string](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0778-reorganize-string) |
