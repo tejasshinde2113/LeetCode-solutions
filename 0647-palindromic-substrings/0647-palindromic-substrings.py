@@ -1,21 +1,20 @@
 class Solution:
     def countSubstrings(self, s: str) -> int:
-        if len(s) == 1:
-            return 1
 
-        count = 0 
+        cnt=0
+        for i in range(len(s)):
 
-        def check(start, end):
-            nonlocal count
-            if start > end or end >= len(s):  
-                return
-
-            if s[start:end+1] == s[start:end+1][::-1]: 
-                count += 1  
-
-            check(start, end + 1)  
-
-        for i in range(len(s)):  
-            check(i, i)
-
-        return count
+            p1=i
+            p2=i
+            while p1>=0 and p2<len(s) and s[p1]==s[p2]:
+                cnt+=1
+                p1-=1
+                p2+=1
+            p1=i
+            p2=i+1
+            while p1>=0 and p2<len(s) and s[p1]==s[p2]:
+                cnt+=1
+                p1-=1
+                p2+=1
+            
+        return cnt
