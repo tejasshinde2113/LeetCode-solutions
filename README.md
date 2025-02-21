@@ -218,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0455-assign-cookies) |
+| [0647-palindromic-substrings](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0647-palindromic-substrings) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0908-middle-of-the-linked-list](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0908-middle-of-the-linked-list) |
 | [1356-minimum-number-of-moves-to-make-palindrome](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/1356-minimum-number-of-moves-to-make-palindrome) |
@@ -707,6 +708,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0434-number-of-segments-in-a-string](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0434-number-of-segments-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0459-repeated-substring-pattern](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0459-repeated-substring-pattern) |
+| [0647-palindromic-substrings](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0647-palindromic-substrings) |
 | [0778-reorganize-string](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0778-reorganize-string) |
 | [0952-word-subsets](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0952-word-subsets) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/1030-smallest-string-starting-from-leaf) |
@@ -743,6 +745,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0392-is-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0542-01-matrix](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0542-01-matrix) |
+| [0647-palindromic-substrings](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0647-palindromic-substrings) |
 | [0943-sum-of-subarray-minimums](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0943-sum-of-subarray-minimums) |
 | [0954-maximum-sum-circular-subarray](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0954-maximum-sum-circular-subarray) |
 | [1013-fibonacci-number](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/1013-fibonacci-number) |
