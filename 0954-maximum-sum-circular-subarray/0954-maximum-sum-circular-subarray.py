@@ -14,10 +14,11 @@ class Solution:
             currmax+=i
             maxsum = max(maxsum,currmax)
 
-            currmin +=i
-            minsum = min(currmin,minsum)
+            
             if currmin > 0:
                 currmin =0
+            currmin +=i
+            minsum = min(currmin,minsum)
             
 
 
