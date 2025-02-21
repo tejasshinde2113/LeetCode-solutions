@@ -2,7 +2,6 @@ class Solution:
     def generateMatrix(self, n: int) -> List[List[int]]:
 
         res =[[0 for i in range(n)] for _ in range(n)]
-        print(res)
         
 
         left =0
