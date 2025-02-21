@@ -27,5 +27,4 @@ class Solution:
         if maxsum <0:
             return maxsum
 
-        print(minsum)
         return max(maxsum, totalsum-minsum)
