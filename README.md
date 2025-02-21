@@ -475,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/1030-smallest-string-starting-from-leaf) |
+| [1035-cousins-in-binary-tree](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/1035-cousins-in-binary-tree) |
 | [1073-number-of-enclaves](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/1073-number-of-enclaves) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1254-deepest-leaves-sum](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/1254-deepest-leaves-sum) |
@@ -525,6 +526,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0871-keys-and-rooms](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0871-keys-and-rooms) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1035-cousins-in-binary-tree](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/1035-cousins-in-binary-tree) |
 | [1036-rotting-oranges](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/1073-number-of-enclaves) |
 | [1254-deepest-leaves-sum](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/1254-deepest-leaves-sum) |
@@ -607,6 +609,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/1030-smallest-string-starting-from-leaf) |
+| [1035-cousins-in-binary-tree](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/1035-cousins-in-binary-tree) |
 | [1040-maximum-binary-tree-ii](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/1040-maximum-binary-tree-ii) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/1092-maximum-difference-between-node-and-ancestor) |
@@ -660,6 +663,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/1030-smallest-string-starting-from-leaf) |
+| [1035-cousins-in-binary-tree](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/1035-cousins-in-binary-tree) |
 | [1040-maximum-binary-tree-ii](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/1040-maximum-binary-tree-ii) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/1092-maximum-difference-between-node-and-ancestor) |
