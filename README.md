@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0389-find-the-difference](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0389-find-the-difference](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0414-third-maximum-number) |
 | [0435-non-overlapping-intervals](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0455-assign-cookies) |
@@ -690,6 +692,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0257-binary-tree-paths) |
 | [0290-word-pattern](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0290-word-pattern) |
 | [0345-reverse-vowels-of-a-string](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
+| [0389-find-the-difference](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0392-is-subsequence) |
 | [0402-remove-k-digits](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0409-longest-palindrome) |
@@ -846,6 +849,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0389-find-the-difference) |
 | [1568-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/1568-pseudo-palindromic-paths-in-a-binary-tree) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
