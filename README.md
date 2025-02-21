@@ -668,6 +668,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0005-longest-palindromic-substring) |
+| [0006-zigzag-conversion](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0006-zigzag-conversion) |
 | [0013-roman-to-integer](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
