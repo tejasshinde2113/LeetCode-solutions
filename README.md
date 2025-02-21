@@ -217,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0392-is-subsequence) |
+| [0443-string-compression](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0443-string-compression) |
 | [0455-assign-cookies](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0455-assign-cookies) |
 | [0647-palindromic-substrings](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0647-palindromic-substrings) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -706,6 +707,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0434-number-of-segments-in-a-string](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0434-number-of-segments-in-a-string) |
+| [0443-string-compression](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0459-repeated-substring-pattern](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0459-repeated-substring-pattern) |
 | [0647-palindromic-substrings](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0647-palindromic-substrings) |
