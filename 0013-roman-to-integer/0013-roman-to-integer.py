@@ -10,12 +10,15 @@ class Solution:
             'D':500,
             'M':1000
         }
-        l = len(s)
-        s = s+'O'
-        res =0
-        for i in range(l):
-            if dct[s[i]]>=dct[s[i+1]]:
-                res+=dct[s[i]]
+
+        res = 0
+        for i in range(len(s)):
+            if i+1 < len(s):
+                if dct[s[i]] <dct[s[i+1]]:
+                    res -= dct[s[i]]
+                else:
+                    res+= dct[s[i]]
             else:
-                res-=dct[s[i]]
+                res+=dct[s[i]]
+        
         return res
