@@ -15,7 +15,7 @@ class Solution:
 
             if one == zero:
                 res = one + zero
-            elif one -zero in dct:
+            else:
                 res = max(res,i-dct[one-zero])
         return res
 
