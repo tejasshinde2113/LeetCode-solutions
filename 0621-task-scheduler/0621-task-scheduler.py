@@ -8,15 +8,15 @@ class Solution:
         for key,val in c.items():
             heapq.heappush(heap,[-val,key])
         
-        time=0
+        cnt =0
         while prev or heap:
-            time+=1
+
+            for i in range(len(prev)):
+                prev[i][0]-=1
 
             
 
-            
-
-            if prev and prev[0][0] == time:
+            if prev and prev[0][0] == 0:
                 i , nval, nkey  = heapq.heappop(prev)
                 heapq.heappush(heap,[nval,nkey])
 
@@ -26,10 +26,11 @@ class Solution:
 
                 val+=1
                 if val !=0:
-                    heapq.heappush(prev, [time + n + 1,val,key])
+                    heapq.heappush(prev, [n+1,val,key])
 
+            cnt+=1
         
 
-        return time
+        return cnt
 
         
