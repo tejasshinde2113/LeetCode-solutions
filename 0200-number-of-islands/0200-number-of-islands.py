@@ -1,34 +1,30 @@
 class Solution:
     def numIslands(self, grid: List[List[str]]) -> int:
+
         m = len(grid)
         n = len(grid[0])
 
-        visit = [[0 for a in range(n)] for b in range(m)]
+        def exploreisland(row,col):
 
-        def exploreIsland(row,col):
             q = deque([(row,col)])
+            grid[row][col] = 0
 
             while q:
-                r,c = q.popleft()
+                row,col = q.popleft()
 
-                for i,j in [(1,0),(0,1),(-1,0),(0,-1)]:
-                    tempr = r+i
-                    tempc= c+j
-
-                    if 0<=tempr < m and 0<= tempc < n and grid[tempr][tempc] == '1' and visit[tempr][tempc] == 0:
-                        q.append((tempr,tempc))
-                        visit[tempr][tempc] = 1
-
-
-
-
-        cnt = 0
+                for i,j in [(0,1),(1,0),(-1,0),(0,-1)]:
+                    trow = row+i
+                    tcol =col+j
+                    if 0<=trow<m and 0<=tcol<n and grid[trow][tcol]=='1':
+                        q.append((trow,tcol))
+                        grid[trow][tcol]=0
+                
+        island =0
         for i,row in enumerate(grid):
-            for j,col in enumerate(row):
-                if col == '1' and visit[i][j] == 0:
-                    visit[i][j] = 1
-                    exploreIsland(i,j)
-
-                    cnt+=1
+            for j, col in enumerate(row):
+                if col == '1':
+                    exploreisland(i,j)
+                    island+=1
         
-        return cnt
+        return island
+        
