@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0213-house-robber-ii](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0228-summary-ranges](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0228-summary-ranges) |
 | [0229-majority-element-ii](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0229-majority-element-ii) |
@@ -755,6 +756,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0152-maximum-product-subarray) |
+| [0213-house-robber-ii](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0322-coin-change) |
 | [0337-house-robber-iii](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0337-house-robber-iii) |
