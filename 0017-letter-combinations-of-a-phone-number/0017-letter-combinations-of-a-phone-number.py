@@ -13,20 +13,12 @@ class Solution:
         }
         res = []
 
-        def back(cnt,strs):
-            nonlocal res
-            
-            if len(strs)==len(digits):
-                res.append(strs)
+        def helper(cnt, comb):
+            if cnt==len(digits):
+                res.append(comb)
                 return
             
-            for val in dct[digits[cnt]]:
-                back(cnt+1, strs+val)
-
-        if digits:
-            back(0,'')
-
-        return res
-
-
-        
+            for j in dct[digits[cnt]]:
+                helper(cnt+1,comb+j)
+        helper(0,'')
+        return res if res !=[''] else []
