@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0380-insert-delete-getrandom-o1](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0414-third-maximum-number](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0414-third-maximum-number) |
 | [0417-pacific-atlantic-water-flow](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0435-non-overlapping-intervals](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0435-non-overlapping-intervals) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0380-insert-delete-getrandom-o1](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0389-find-the-difference](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0424-longest-repeating-character-replacement) |
@@ -431,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0326-power-of-three) |
+| [0380-insert-delete-getrandom-o1](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [1013-fibonacci-number](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/1013-fibonacci-number) |
 | [1014-k-closest-points-to-origin](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/1014-k-closest-points-to-origin) |
 | [1585-the-kth-factor-of-n](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/1585-the-kth-factor-of-n) |
@@ -954,6 +957,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0146-lru-cache](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0146-lru-cache) |
 | [0303-range-sum-query-immutable](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0303-range-sum-query-immutable) |
+| [0380-insert-delete-getrandom-o1](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0380-insert-delete-getrandom-o1) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -984,4 +988,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0948-sort-an-array) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/tejasshinde2113/LeetCode-solutions/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
