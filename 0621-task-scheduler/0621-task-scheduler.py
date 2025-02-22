@@ -8,7 +8,6 @@ class Solution:
         for key,val in c.items():
             heapq.heappush(heap,[-val,key])
         
-        cnt =0
         time=0
         while prev or heap:
             time+=1
@@ -29,9 +28,8 @@ class Solution:
                 if val !=0:
                     heapq.heappush(prev, [time + n + 1,val,key])
 
-            cnt+=1
         
 
-        return cnt
+        return time
 
         
