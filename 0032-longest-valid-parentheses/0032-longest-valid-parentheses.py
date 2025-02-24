@@ -1,38 +1,30 @@
 class Solution:
     def longestValidParentheses(self, s: str) -> int:
+        if len(s)<2:
+            return 0
 
-        res = 0
-        l=0
-        r=0
+        def helper(p,direction):
+            opens =0
+            closes =0
+            res =0
+            for ch in p:
+                if ch =='(':
+                    opens+=1
+                else:
+                    closes+=1
+                
+                if opens==closes:
+                    res = max(res,opens+closes)
+                if not direction:
+                    if opens < closes:
+                        opens=0
+                        closes=0
+                else:
+                    if opens > closes:
+                        opens=0
+                        closes=0
+            print(res,direction)
+            return res
 
-        for ch in s:
-            if ch == '(':
-                l+=1
-            else:
-                r+=1
-            if r==l:
-                res = max(res,l*2)
-            if r>l:
-                res = max(res,l*2)
-                l=0
-                r=0
-
-        l=0
-        r=0
-
-        for ch in s[::-1]:
-            if ch == '(':
-                l+=1
-            else:
-                r+=1
-            if r==l:
-                res = max(res,l+r)
-            if r<l:
-                res = max(res,r*2)
-                l=0
-                r=0
         
-        
-
-        return res
-        
+        return max(helper(s,0),helper(s[::-1],1))
