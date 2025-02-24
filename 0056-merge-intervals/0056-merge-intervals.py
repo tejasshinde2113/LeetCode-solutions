@@ -1,17 +1,18 @@
 class Solution:
     def merge(self, val: List[List[int]]) -> List[List[int]]:
         val.sort()
+        res =[val[0]]
+        for start,end in val[1:]:
 
-        res = [val[0]]
-
-        for i in range(1,len(val)):
-            if val[i][0] <= res[-1][1]:
-                
-                sec = max(res[-1][1], val[i][1])
-                first = min (res[-1][0], val[i][0])
+            if start <= res[-1][1]:
+                maxval = max(res[-1][1],end)
+                minval = min(res[-1][0], start)
                 res.pop()
-                res.append([first, sec])
+                res.append([minval,maxval])
+            
             else:
-                res.append(val[i])
+                res.append([start,end])
         
         return res
+        
+        
