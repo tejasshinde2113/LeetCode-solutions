@@ -1,12 +1,12 @@
 class Solution:
     def titleToNumber(self, c: str) -> int:
-        res=0
+        num =0
+        print('A')
+        for ch in c:
+            cnt = ord(ch) - ord('A')+1
 
-        for i in c:
-            digit = ord(i) -ord('A')+1
-
-            res = res*26 + digit
-            print(res)
-        return res
+            num = num*26 + cnt
+        
+        return num
 
         
